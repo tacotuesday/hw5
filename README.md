@@ -1,5 +1,5 @@
 # Homework 5, ME 621
-Code relating to ME 621 HW 5. This repo should contain deployable copies of the Simulink model (and MATLAB initialization script, if so designed).
+Code relating to ME 621 HW 5. This repo should contain deployable copies of the Simulink model and MATLAB initialization script. All further revisions need to be done via branches and pull requests.
 
 > Don't panic. *-Douglas Adams*
 ## Resources
