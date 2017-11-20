@@ -24,4 +24,4 @@ alpha12 = 20;     % Convergence coefficient for questions 1 & 2.
 % alpha3 = ;        % Convergence coefficient for question 3.
 
 % Open the Simulink file.
-% sim('Berghuis_Cook')
+sim('Berghuis_Cook')
