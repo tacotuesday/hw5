@@ -20,7 +20,7 @@ k = m * wn^2;
 c = 2*zeta*sqrt(m*k);
 
 % Tuneable parameters.
-alpha12 = 1e6;     % Convergence coefficient for questions 1 & 2.
+alpha12 = 1e12;     % Convergence coefficient for questions 1 & 2.
 % alpha3 = ;        % Convergence coefficient for question 3.
 
 % Open the Simulink file.
