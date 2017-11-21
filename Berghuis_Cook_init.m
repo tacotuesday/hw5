@@ -17,10 +17,10 @@ m = 0.125;
 zeta = 0.125;
 wn = 2*pi*resFreq;
 k = m * wn^2;
-c = 2*zeta*sqrt(m*k);
+c = 2*zeta*sqrt(k/m);
 
 % Tuneable parameters.
-alpha12 = 1e12;     % Convergence coefficient for questions 1 & 2.
+alpha12 = 1e7;     % Convergence coefficient for questions 1 & 2.
 % alpha3 = ;        % Convergence coefficient for question 3.
 
 % Open the Simulink file.
