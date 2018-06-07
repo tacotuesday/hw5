@@ -1,5 +1,6 @@
 % Berghuis_Cook_init: Run this script to initialize the workspace for the
 % HW5 Simulink file "Berghuis_Cook"
+% Extra line to demonstrate how GitHub works.
 
 % Set environmental variables.
 dt = 1e-4;
